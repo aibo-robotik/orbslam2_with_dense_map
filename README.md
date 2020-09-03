@@ -1,3 +1,4 @@
+based on Gao Xiang's work
 # orbslam2_with_dense_map
 This is a modified ORB_SLAM2 (from https://github.com/raulmur/ORB_SLAM2) with a online point cloud map module running in RGB-D mode. You can visualize your point cloud map during the SLAM process. 
 
